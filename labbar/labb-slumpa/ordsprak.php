@@ -18,7 +18,7 @@
     $index = rand(0, 9);
 
     // Skriv ut ordspråket 
-    echo # kod...;
+    echo "";
 ?>
 </body>
 </html>
