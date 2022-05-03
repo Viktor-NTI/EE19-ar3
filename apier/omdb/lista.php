@@ -34,7 +34,7 @@
             // Steg 2. Avkoda data
             $dataJson = json_decode($json);
 
-            // Steg 3. Plocka det som intersserar oss
+            /   / Steg 3. Plocka det som intersserar oss
             $search = $dataJson->Search;                    // array
             $totalResults = $dataJson->totalResults;
 
